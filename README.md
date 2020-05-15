@@ -1,4 +1,4 @@
-# Hologram-Architecture
+# [Hologram-Architecture](https://hologram-iot-service.github.io/Hologram-Architecture/)
 The basic design of the hologram smart home service program architecture
 
 ## Architecture Design
